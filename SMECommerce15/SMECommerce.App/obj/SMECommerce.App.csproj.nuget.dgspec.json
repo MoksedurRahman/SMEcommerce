@@ -1,0 +1,584 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App\\SMECommerce.App.csproj": {}
+  },
+  "projects": {
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj",
+        "projectName": "SMECommerce.Databases",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj",
+        "projectName": "SMECommerce.App.Configurations",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App\\SMECommerce.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App\\SMECommerce.App.csproj",
+        "projectName": "SMECommerce.App",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App\\SMECommerce.App.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+        "projectName": "SMECommerce.Models",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+        "projectName": "SMECommerce.Repositories.Abstractions",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
+        "projectName": "SMECommerce.Repositories",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerc.Databases\\SMECommerce.Databases.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
+        "projectName": "SMECommerce.Services.Abstractions",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
+        "projectName": "SMECommerce.Services",
+        "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
+        "packagesPath": "C:\\Users\\Web App- Dot Net\\.nuget\\packages\\",
+        "outputPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Web App- Dot Net\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj"
+              },
+              "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
+                "projectPath": "E:\\aspnet-batch8\\ApplicationDevelopment\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

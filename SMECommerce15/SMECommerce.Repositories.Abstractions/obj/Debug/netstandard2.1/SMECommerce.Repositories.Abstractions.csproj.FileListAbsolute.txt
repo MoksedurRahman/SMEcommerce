@@ -1,0 +1,13 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
