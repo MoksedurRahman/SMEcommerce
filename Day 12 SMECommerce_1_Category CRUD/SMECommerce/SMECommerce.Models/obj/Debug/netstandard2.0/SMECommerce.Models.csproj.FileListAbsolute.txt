@@ -1,0 +1,9 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\bin\Debug\netstandard2.0\SMECommerce.Models.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\bin\Debug\netstandard2.0\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\bin\Debug\netstandard2.0\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Models\obj\Debug\netstandard2.0\SMECommerce.Models.pdb

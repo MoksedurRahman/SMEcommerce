@@ -1,0 +1,17 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerc.Databases.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerc.Databases.runtimeconfig.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerc.Databases.runtimeconfig.dev.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerc.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\ref\SMECommerc.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerc.Databases.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\bin\Debug\net5.0\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\ref\SMECommerc.Databases.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerc.Databases\obj\Debug\net5.0\SMECommerc.Databases.genruntimeconfig.cache
